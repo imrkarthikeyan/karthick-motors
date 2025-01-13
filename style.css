@@ -1,0 +1,30 @@
+.carcontainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.caritem{
+    text-align: center;
+    margin: 20px;
+}
+.cars2024{
+    display: none;
+    width: 200px;
+}
+.cars2023{
+    display: none;
+    width: 200px;
+}
+.cars2022{
+    display: none;
+    width: 200px;
+}
+.cardetail{
+    display: none;
+}
+.cardetail2{
+    display: none;
+}
+.cardetail3{
+    display: none;
+}
